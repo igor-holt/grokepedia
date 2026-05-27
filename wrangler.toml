@@ -1,0 +1,11 @@
+name = "grokepedia"
+compatibility_date = "2025-05-27"
+
+[build]
+command = ""  # Static site, no build step needed for now
+
+[site]
+bucket = "."  # Serve from root for simplicity; can refine to /nodes later
+
+[vars]
+# Add any env vars if needed for future dynamic parts
