@@ -1,0 +1,48 @@
+{
+  "$schema": "https://www.schemastore.org/schemas/json/claude-code-marketplace.json",
+  "name": "genesis-conductor-grokepedia",
+  "owner": {
+    "name": "Igor Holt (@invariantx)",
+    "email": "iholt@mymail.aacc.edu",
+    "url": "https://github.com/igor-holt"
+  },
+  "description": "Grokepedia: canonical knowledge graph and inference semantic node publishing system by Igor Holt (@invariantx) for Genesis Conductor A2N (Agentic) surfaces. Maintains ER=EPR branch, Genesis Conductor / A2N nodes, automatic checkpoint publish system, inference semantic knowledge node lifecycle, provenance sovereignty asymmetry, resonant modes / consciousness field (TIF), and global visibility layer. Strict anti-hallucination provenance rules, diamondNode attestation, Smithery indexing, Notion sync, and AAL capsule streams. Cross-indexed across all Igor Holt Grok build projects (Familiar, diamond-node, extropica, etc.). Powers structured, verifiable knowledge for OpenClaw agents, persistent memory, and thermodynamic orchestration.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/igor-holt/grokepedia",
+  "keywords": [
+    "grokepedia",
+    "inference-semantic-nodes",
+    "genesis-conductor",
+    "igor-holt",
+    "invariantx",
+    "er-epr",
+    "a2n",
+    "checkpoint-publish",
+    "provenance-sovereignty",
+    "resonant-modes",
+    "temporal-inference-field",
+    "diamondnode-attestation",
+    "smithery-indexing",
+    "openclaw",
+    "agent-knowledge-graph",
+    "claude-code-marketplace",
+    "anti-hallucination"
+  ],
+  "plugins": [
+    {
+      "name": "grokepedia",
+      "source": "https://github.com/igor-holt/grokepedia",
+      "description": "Production knowledge graph and automatic inference node lifecycle system for Genesis Conductor. Enforces 6 derivation rules, CULL constraints, provenance loops, and multi-surface visibility (Smithery, diamondNode, AAL, Notion). Includes ER=EPR philosophical branch and crystalline resonant modes. Essential for agent memory, verifiable knowledge, and A2N orchestration.",
+      "version": "1.0.0",
+      "tags": ["knowledge-graph", "inference-nodes", "provenance", "genesis-conductor", "a2n"],
+      "category": "agent-infrastructure",
+      "homepage": "https://github.com/igor-holt/grokepedia",
+      "keywords": ["grokepedia inference semantic nodes", "genesis conductor knowledge graph", "er epr a2n provenance", "diamondnode attested checkpoints"]
+    }
+  ],
+  "links": {
+    "x": "https://x.com/invariantx",
+    "website": "https://genesisconductor.io",
+    "github": "https://github.com/igor-holt/grokepedia"
+  }
+}
